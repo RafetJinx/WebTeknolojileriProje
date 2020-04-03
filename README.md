@@ -1,9 +1,9 @@
 # Projenin Amacı: 
-  -	HTML <br/>
-  -	CSS <br/>
+  -	HTML
+  -	CSS
   -	JAVASCRIPT <br>
-  -	Ve gerekli olan Framework’ler kullanarak bir web sitesi oluşturmak. <br/>
-## Projede Gerçekleştirilecek Olan Görevler: <br/> 
+  -	Ve gerekli olan Framework’ler kullanarak bir web sitesi oluşturmak.
+## Projede Gerçekleştirilecek Olan Görevler:
 ###  1-) Kendini ve Memleketini tanıt. <br/>
 ###  2-) Site Tasarımı: <br/>
     -	Site Bootstrap içeren responsive( çözünürlüğe göre değişen ) bir tasarıma sahip olmalıdır. <br/>
