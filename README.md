@@ -1,2 +1,2 @@
 # WebTeknolojileriProje
- Kendim ve Memleketim
+ Web Teknoloji Dersi 2020 Bahar Yarıyılı Proje
