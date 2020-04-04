@@ -14,8 +14,9 @@
     -	Eğitim bilgilerini içeren CV niteliğinde table ve div lerin kullanıldığı bir sayfa.
 ###  5-) Şehrim Sayfası:
     -	Memleketine(veya sevdiğin bir şehre ait) ait bilgiler yer almalıdır.
-    -	Sayfanın başında veya sonunda en az 4 resimde olun bir slider yer almalı. Slider’da yer alan resimlere tıkladığında 
-    ilgili resimlere ait içeriklere sahip link olmalı. (Resimlerin içerikleri ayrıntılı olmadan sitede yer almalıdır.)
+    -	Sayfanın başında veya sonunda en az 4 resimde olun bir slider yer almalı. Slider’da yer alan resimlere 
+    tıkladığında ilgili resimlere ait içeriklere sahip link olmalı. (Resimlerin içerikleri ayrıntılı olmadan
+    sitede yer almalıdır.)
 ###  6-) Login Sayfası:
     -	Kullanıcı adı ve şifre bir php sayfasına post edilip kontrol yapılmalı.
     o	Kontrol işlemi başarılı ise; Bir mesaj çıkmalı ve login işleminin başarılı olduğu bildirilmeli.
