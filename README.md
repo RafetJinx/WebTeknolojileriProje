@@ -28,5 +28,5 @@
   -	İletişim formundaki gerekli kontrol işlemleri Javascript kullanılarak gerçekleştirilmelidir.
   -	Form “temizle” ve “gönder” butonları içermelidir.
   -	Gönderilen form bilgileri başka bir sayfada görüntülenmelidir.
-  [Proje Lİnki](https://github.com/RafetJinx/WebTeknolojileriProje)
+  #### [Proje Lİnki](https://github.com/RafetJinx/WebTeknolojileriProje)
   
