@@ -1,0 +1,74 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Document</title>
+    <style>
+
+    </style>
+</head>
+
+<body class="login-body">
+
+    <div class="container bg-light">
+
+        <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
+            <a class="navbar-brand" href="#"><img src="img/jinx.giphy.gif" width="40" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="navbar-brand" href="#"></a>
+                    <a class="nav-item nav-link active" href="hakkimda.html">Hakkimda </a>
+                    <a class="nav-item nav-link active" href="ozgecmis.html">Özgeçmiş</a>
+                    <a class="nav-item nav-link active" href="sehrim.html">Şehrim</a>
+                    <a class="nav-item nav-link active" href="mirasimiz.html">Mirasımız</a>
+                    <a class="nav-item nav-link active" href="iletisim.html">İletişim</a>
+                    <a class="nav-item nav-link active" href="login.html">Giriş Yap</a>
+                </div>
+            </div>
+        </nav>
+
+        <form name="login" class="login-formiy">
+            <div class="login">
+                <input type="text" placeholder="username" name="userid"><br>
+                <input type="password" placeholder="password" name="pswrd"><br>
+                <input type="button" onclick="check(this.form)" value="Login"><br>
+            </div>
+        </form>
+        <script language="javascript">
+            function check(form) {
+                if (form.userid.value == "g191210050@gmail.com" && form.pswrd.value == "g191210050") {
+                    window.open("hakkimda.html");
+                } else {
+                    alert("Girdiğiniz kullanıcı adı ve şifre sistemdekilerle eşleşmiyor.")
+                    location.reload();
+                    alert("Hoşgeldiniz Rafet Ersoy");
+                }
+            }
+        </script>
+        <title>Login</title>
+
+
+
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

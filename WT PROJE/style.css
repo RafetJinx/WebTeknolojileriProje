@@ -1,0 +1,280 @@
+/*------------HAKKIMDA BASLANGIC-------------*/
+/*-------------------------------------------*/
+.hakkimda {
+    background: url("img/benKimimBaslik.jpg") no-repeat;
+    text-align: center;
+    font-size: 150%;
+    padding-top: 12%;
+    background-size: 100% 100%;
+}
+.benKimim {
+    text-align: justify;
+    width: 40%;
+    float: left;
+}
+.matematik {
+    text-align: justify;
+    width: 50%;
+    float: left;
+}
+.geometri {
+    text-align: justify;
+    width: 50%;
+    float: left;
+}
+.jinx {
+    width: 100%;
+    background-size: 100% 100%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.izcilik {
+    text-indent: 5%;
+    text-align: justify;
+    width: 60%;
+    float: left;
+}
+.satranc {
+    text-indent: 5%;
+    text-align: justify;
+    width: 60%;
+    float: left;
+}
+.espor {
+    text-indent: 5%;
+    text-align: justify;
+    width: 100%;
+    float: left;
+}
+.benKimim-img {
+    float: left;
+    background: no-repeat;
+    background-size: 100% 100%;
+    width: 40%;
+    height: 150px;
+}
+.izcilik-img {
+    float: right;
+    background: no-repeat;
+    background-size: 100% 100%;
+    width: 40%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.satranc-img {
+    float: right;
+    background: no-repeat;
+    background-size: 100% 100%;
+    width: 40%;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.matematik-img {
+    float: left;
+    background: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 2%;
+    padding-right: 2%;
+    width: 40%;
+    height: 150px;
+}
+.geometri-img {
+    float: left;
+    background: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 2%;
+    padding-right: 2%;
+    width: 40%;
+    height: 150px;
+}
+.espor-img {
+    float: left;
+    background: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 2%;
+    padding-right: 2%;
+    margin-bottom: 5%;
+    width: 65%;
+}
+/*----------------HAKKIMDA SON---------------*/
+/*-------------------------------------------*/
+
+
+/*------------OZGECMIS BASLANGIC-------------*/
+/*-------------------------------------------*/
+.ozgecmis-table{
+    border: 5px solid rgb(21, 6, 83);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ozgecmis-table-data{
+    border: 5px solid rgb(21, 6, 83);
+}
+.ozgecmis-table-head{
+    border: 5px solid rgb(21, 6, 83);
+    padding-right: 3%;
+}
+.ozgecmis-img{
+    width: 150px;
+    height: 150px;
+}
+.ozgecmis {
+    background: url("img/ozgecmis.jpg");
+    text-align: center;
+    font-size: 150%;
+    padding-top: 12%;
+    width: 100%;
+    height: 300px;
+}
+.ozgecmis-iste {
+    text-align: right;
+    text-indent: 5%;
+}
+.ozgecmis-ver {
+    text-align: left;
+    text-indent: 5%;
+}
+/*----------------OZGECMIS SON---------------*/
+/*-------------------------------------------*/
+
+
+/*--------------SEHRIM BASLANGIC-------------*/
+/*-------------------------------------------*/
+.sehrim-konya-img {
+    background: url("img/konya.jpg") no-repeat;
+    background-size: 100% 100%;
+  }
+  .sehrim-mutfak-img {
+    background: url("img/mutfak.jpg") no-repeat;
+    background-size: 100% 100%;
+  }
+  .sehrim-turizm-img {
+    background: url("img/turizm.jpg") no-repeat;
+    background-size: 100% 100%;
+  }
+  .sehrim-img-mte {
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 100%;
+    padding-bottom: 2.2%;
+  }
+  .sehrim-img-mte-alaeddin {
+    padding-left: 9%;
+    padding-right: 9%;
+    width: 100%;
+    padding-bottom: 2.2%;
+  }
+  .sehrim-mte-ebf {
+    width: 33%;
+    float: left;
+  }
+  .sehrim-turizm:nth-child(1){
+    width: 50%;
+    float: left;
+  }
+  .sehrim-turizm:nth-child(2) {
+    width: 50%;
+    float: left;
+  }
+  .sehrim-turizm:nth-child(3) {
+    width: 100%;
+    float: left;
+  }
+  .sehrim {
+    color: rgb(23, 182, 134);
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+  }
+  .sehrim-alt-baslik {
+    font-weight: bold;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-indent: 8%;
+  }
+/*-----------------SEHRİM SON----------------*/
+/*-------------------------------------------*/
+
+
+/*------------MIRASIMIZ BASLANGIC------------*/
+/*-------------------------------------------*/
+.text-align-adlandirma {
+    text-align: justify;
+    text-indent: 3%;
+}
+.text-align-tarihce {
+    text-align: justify;
+    text-indent: 3%;
+  }
+/*---------------MIRASIMIZ SON---------------*/
+/*-------------------------------------------*/
+
+
+/*-------------ILETISIM BASLANGIC------------*/
+/*-------------------------------------------*/
+.btn {
+    float: right;
+    margin-right: 10%;
+ } 
+/*----------------ILETISIM SON---------------*/
+/*-------------------------------------------*/
+
+
+/*----------------LOGIN BASLANGIC------------*/
+/*-------------------------------------------*/
+.login-formiy {
+    text-align: center;
+    padding-left: auto;
+    padding-right: auto%;
+}
+.login-body {
+    background: url("img/webteknolojileri.jpg") no-repeat;
+    background-size: 100% 100%;
+}
+.login {
+    position: absolute;
+    top: calc(37%);
+    left: calc(38%);
+    height: 125px;
+    width: 200px;
+    padding: 20px;
+}
+.login input[type=text] {
+    width: 250px;
+    height: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 2px;
+    color: #000000;
+    font-family: 'Exo', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 4px;
+}
+.login input[type=password] {
+    width: 250px;
+    height: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 2px;
+    color: #000000;
+    font-family: 'Exo', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 4px;
+}
+.login input[type=button] {
+    width: 250px;
+    height: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 2px;
+    color: #a18d6c;
+    font-family: 'Exo', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 4px;
+}
+/*-------------------LOGIN SON---------------*/
+/*-------------------------------------------*/
